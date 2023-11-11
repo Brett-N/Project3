@@ -19,6 +19,7 @@ This repository contains my implementation of a modified Quicksort algorithm, a 
 ## Usage
 
 Run the program via the command line:
+
 '''java Quicksort <data-file-name> <numb-buffers> <stat-file-name>'''
 
 - `<data-file-name>`: The binary file to be sorted.
