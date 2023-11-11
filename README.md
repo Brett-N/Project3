@@ -29,3 +29,7 @@ Run the program via the command line:
 ## Output
 
 The program outputs runtime statistics including cache hits, disk reads/writes, and total runtime of the algorithm.
+
+---
+
+Feel free to explore the code to understand the implementation details and optimizations made. For any queries or suggestions, feel free to reach me at brettn@vt.edu
